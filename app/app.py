@@ -5,9 +5,9 @@ import pandas as pd
 # -------------------------------
 # Load Model & Encoders
 # -------------------------------
-preprocessor = pickle.load(open("encoders.pkl", "rb"))
+preprocessor = pickle.load(open("app/encoders.pkl", "rb"))
 # Load model
-model = pickle.load(open("customer_churn_model.pkl", "rb"))
+model = pickle.load(open("app/customer_churn_model.pkl", "rb"))
 # -------------------------------
 # Page Config
 # -------------------------------
