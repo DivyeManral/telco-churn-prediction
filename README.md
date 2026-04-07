@@ -38,5 +38,5 @@ streamlit run app/app.py
 
 
 ## App Preview
-![App Screenshot](assets/app_review.png)
+assets/app_review.png
 ![App Screenshot](assets/output.png)
