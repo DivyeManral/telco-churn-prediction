@@ -31,12 +31,5 @@ Customer churn directly impacts revenue. This project helps identify customers a
 
 ---
 
-## Run Locally
-```bash
-pip install -r requirements.txt
-streamlit run app/app.py
-
-
-## App Preview
+## Preview
 assets/app_review.png
-![App Screenshot](assets/output.png)
