@@ -37,3 +37,6 @@ Customer churn directly impacts revenue. This project helps identify customers a
 
 ### Output
 ![App](https://raw.githubusercontent.com/DivyeManral/telco-churn-prediction/main/assets/output.png)
+
+## Live App
+[![Live App](https://img.shields.io/badge/Streamlit-Live_App-brightgreen)](https://telco-churn-prediction-ml-model.streamlit.app/)
